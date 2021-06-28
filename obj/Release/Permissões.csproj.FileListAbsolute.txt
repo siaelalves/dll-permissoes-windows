@@ -1,0 +1,9 @@
+D:\Projetos\C#\Bibliotecas\Permissões\bin\Release\Permissões.dll
+D:\Projetos\C#\Bibliotecas\Permissões\bin\Release\Permissões.pdb
+D:\Projetos\C#\Bibliotecas\Permissões\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\C#\Bibliotecas\Permissões\obj\Release\Permissões.dll
+D:\Projetos\C#\Bibliotecas\Permissões\obj\Release\Permissões.pdb
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\C#\Bibliotecas\Segurança\bin\Release\sec.pdb
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Release\sec.dll
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Release\sec.pdb

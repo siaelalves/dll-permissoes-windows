@@ -1,0 +1,5 @@
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Bibliotecas\Segurança\bin\Debug\sec.dll
+D:\Projetos\C#\Bibliotecas\Segurança\bin\Debug\sec.pdb
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Debug\sec.dll
+D:\Projetos\C#\Bibliotecas\Segurança\obj\Debug\sec.pdb
